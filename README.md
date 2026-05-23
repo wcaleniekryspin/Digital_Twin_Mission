@@ -1,3 +1,6 @@
+# Satellite Launch System | Digital Twin 3D
+
+## O projekcie
 Projekt przedstawia zaawansowany prototyp Cyfrowego Bliźniaka (Digital Twin) systemu nośnego rakiety orbitalnej, stworzony w środowisku Python z interaktywnym kokpitem menedżerskim Dash (Plotly). Aplikacja służy do optymalizacji i symulacji trajektorii lotów rakietowych w czasie rzeczywistym, oferując potężne narzędzia telemetryczne dedykowane inżynierii kosmicznej.
 
 ## Kluczowe funkcjonalności
