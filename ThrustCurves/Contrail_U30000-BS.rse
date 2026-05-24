@@ -1,0 +1,15 @@
+<engine-database>
+ <engine-list>
+<engine FDiv="10" FFix="1" FStep="-1." Isp="18.9" Itot="1923000" Type="hybrid" auto-calc-cg="1" auto-calc-mass="1" avgThrust="29358" burn-time="66" cgDiv="10" cgFix="1" cgStep="-1." code="U30000" delays="1000" dia="180" exitDia="0." initWt="53000." len="800" mDiv="10" mFix="1" mStep="-1." massFrac="94.3" mfg="Contrail Rockets" peakThrust="30000." propWt="50000." tDiv="10" tFix="1" tStep="-1." throatDia="0.">
+<data>
+<eng-data cg="375" f="0." m="530000" t="0."/>
+<eng-data cg="375" f="6000" m="530000" t="1"/>
+<eng-data cg="375" f="30000" m="530000" t="3"/>
+<eng-data cg="375" f="20000" m="40000" t="46.0"/>
+<eng-data cg="375" f="20000" m="30000" t="65.0"/>
+<eng-data cg="375" f="6000" m="30000" t="65.5"/>
+<eng-data cg="375" f="0." m="30000" t="66"/>
+</data>
+</engine>
+ </engine-list>
+</engine-database>
