@@ -11,5 +11,5 @@ Projekt przedstawia zaawansowany prototyp Cyfrowego Bliźniaka (Digital Twin) sy
 
 ## Interfejs aplikacji
 <img width="1392" height="855" alt="obraz" src="https://github.com/user-attachments/assets/25235131-c221-4f70-a555-c6926577850d" />
-<img width="1392" height="855" alt="obraz" src="https://github.com/user-attachments/assets/34eb849d-a89a-4ca6-91c7-61ccecb7fb37" />
+<img width="1390" height="864" alt="obraz" src="https://github.com/user-attachments/assets/5b0e997b-99b9-4bef-9db5-fce78137f7ae" />
 <img width="1231" height="781" alt="obraz" src="https://github.com/user-attachments/assets/88068a09-f91e-4b7d-879d-565f541576ad" />
